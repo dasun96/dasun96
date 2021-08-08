@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dasun96
 - 👀 I’m interested in React, Node, Arduino
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on cloud project
+- 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me https://www.linkedin.com/in/tharindu-dasun-7488a3110
 
 <!---
